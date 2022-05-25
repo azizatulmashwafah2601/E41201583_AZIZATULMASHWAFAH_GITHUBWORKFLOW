@@ -109,7 +109,7 @@ class MyDrawer extends StatelessWidget {
                     Text(
                       'zizahchaca@gmail.com',
                       style: TextStyle(
-                        fontSize: 12,
+                        fontSize: 14,
                         color: Colors.white,
                       ),
                     ),

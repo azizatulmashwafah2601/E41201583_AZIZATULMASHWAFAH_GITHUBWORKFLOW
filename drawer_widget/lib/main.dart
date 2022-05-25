@@ -96,7 +96,7 @@ class MyDrawer extends StatelessWidget {
                       height: 15,
                     ),
                     Text(
-                      'Azizatul Mashwafah',
+                      'Azizatul Mashwafah (azizah)',
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.w600,
